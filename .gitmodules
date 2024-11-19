@@ -1,0 +1,3 @@
+[submodule "libs/glucose"]
+	path = libs/glucose
+	url = https://github.com/audemard/glucose.git
